@@ -1,0 +1,12 @@
+MERGE SORT
+============
+Sorted according to order of the Height
+
+Sony Mathew 5.50 60.00
+Anjali Pathmanabhan 5.50 59.00
+Arun Sajeev 5.70 58.00
+Dinesh Chemban 5.70 61.00
+Ramesh Narayan 6.00 69.00
+Rajesh Kumar 6.10 70.00
+Time taken = 0.000017 seconds
+

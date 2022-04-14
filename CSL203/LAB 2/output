@@ -1,0 +1,59 @@
+Salary of Radhakrishnan is 4529.19
+Salary of Anto Davis is 3892.81
+=========================================
+Name: Radhakrishnan
+Address: 123, Boulevard of Broken Dreams
+Phone Number: 9823148320
+Salary : 4529.19
+Manager of Research and Development
+=========================================
+
+
+=========================================
+Name: Anto Davis
+Address: Green House Villa, Pulmaidhanam
+Phone Number: 9847120926
+Salary : 3892.81
+Specialization in Corporate Security
+=========================================
+
+
+==================================================
+Account Number: 0
+Name of the Account Holder:  
+Account Type:  
+Balance: 0.0
+==================================================
+
+
+==================================================
+Account Number: 1029343458
+Name of the Account Holder: Babu
+Account Type: Savings
+Balance: 8034.123
+==================================================
+
+Error! Insufficient balance in Account
+Remaining balance in Account = 2340.0
+
+Sucessfully withdrawn 800.0 from the account
+Remaining balance in Account = 7234.123
+
+Error!!!! Enter a valid value
+
+
+==================================================
+Account Number: 11066049032
+Name of the Account Holder: Dhamodharan
+Account Type: Checkings
+Balance: 2340.0
+==================================================
+
+
+==================================================
+Account Number: 1029343458
+Name of the Account Holder: Babu
+Account Type: Savings
+Balance: 7234.123
+==================================================
+

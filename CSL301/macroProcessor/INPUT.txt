@@ -1,0 +1,12 @@
+EX1	   MACRO	&A,&B
+-	   LDA	    &A
+-	   STA	    &B
+-	   MEND   	-
+SAMPLE START	1000
+-	   EX1	    N1,N2
+-	   EX1	    M1,M2
+-      RSUB     -
+N1	   RESW	    1
+N2	   RESW  	1
+-	   END  	-
+
